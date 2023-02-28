@@ -207,7 +207,16 @@ html{
 }
 .sobremi button:hover .overlay{
     width: 100%;
-}
+
+
+    /*SECCION VIDEO*/
+
+    .Video_Intro{
+        background-color: #1e2326;
+        color: #fff;
+        padding: 50px 20px;
+    }
+
 /* SECCION S K I L L S */
 .skills{
     background-color: #252A2E;
