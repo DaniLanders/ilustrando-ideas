@@ -712,3 +712,24 @@ footer .arriba{
         width: 100%;
     }
 }
+
+
+/*Star: Video Responsive*/
+
+.video-responsive{
+    overflow: hidden;
+    padding-bottom: 400px;
+    position: relative;
+    height: 0;
+
+}
+
+.video-responsive iframe{
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+
+}
+/*End: video Responsive*/
