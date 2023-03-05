@@ -58,7 +58,7 @@ html{
 }
 /* SECCION I N I C I O */
 .inicio{
-    background: linear-gradient(to top, rgba(30,35,38,.8), rgba(30,35,38,1)),
+    background: linear-gradient(to top, rgba(30, 35, 38, 0.274), rgba(30,35,38,1)),
     url(img/header7.png);
     background-size: cover;
     height: 100vh;
