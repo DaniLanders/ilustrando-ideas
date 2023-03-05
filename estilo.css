@@ -742,14 +742,7 @@ footer .arriba{
 /*Imagen Responsive*/
 
 .imagen-responsive{
-    overflow: hidden;
-    padding-bottom: 200px;
-    position: relative;
-    height: 0;
-    left: 0;
-    top: 0;
-    height: 100%;
-    width: 100%;
-    position: absolute;
-
+    width: 100px;
+    height: 100px;
+    
 }
